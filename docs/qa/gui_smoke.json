@@ -1,0 +1,49 @@
+{
+  "timer_ticks": 31,
+  "maximum_tick_gap_s": 0.125,
+  "errors": [],
+  "complete": true,
+  "plot_mouse_click_works": true,
+  "cursor_details_present": true,
+  "linked_ranges": [
+    [
+      2.0,
+      16.0
+    ],
+    [
+      2.0,
+      16.0
+    ],
+    [
+      2.0,
+      16.0
+    ],
+    [
+      2.0,
+      16.0
+    ],
+    [
+      2.0,
+      16.0
+    ],
+    [
+      2.0,
+      16.0
+    ],
+    [
+      2.0,
+      16.0
+    ],
+    [
+      2.0,
+      16.0
+    ],
+    [
+      2.0,
+      16.0
+    ]
+  ],
+  "ranges_linked": true,
+  "events": 2,
+  "threads_running_after_close": false
+}
