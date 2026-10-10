@@ -1,4 +1,4 @@
-# ArduPilot Optical Flow Analyzer
+# ArduPilot 光流分析与飞控诊断工具
 
 Windows 飞控只读诊断上位机，面向 Pogo-CANFCU-Mini、ArduCopter 4.6.3、MTF02P 光流 + ToF 测距及室内 Loiter 问题。支持 USB/MAVLink 遥测、飞控 DataFlash 日志下载、本地 BIN 解析、同步曲线与有证据的 Loiter 筛查。
 
